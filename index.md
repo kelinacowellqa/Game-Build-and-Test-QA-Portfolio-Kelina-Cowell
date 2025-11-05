@@ -12,5 +12,9 @@ This repository will host a **small playable game** that I build and then test e
 - **Post-mortem** (what shipped, risks, lessons)
 
 **Status:** Planned. I’m prioritising the Manual and Automation QA portfolios first.  
-**Portfolio hub:** https://kelinacowellqa.github.io  
 **Contact:** kelinacowell.qa@gmail.com
+
+<p>
+  <a class="cta-btn" href="https://kelinacowellqa.github.io">⬅ Back to Portfolio Hub</a>
+</p>
+
