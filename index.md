@@ -11,6 +11,6 @@ This repository will host a **small playable game** that I build and then test e
 - **Jira board snapshot** (columns & transitions)
 - **Post-mortem** (what shipped, risks, lessons)
 
-**Status:** Planned. I’m prioritising the Manual QA portfolio first.  
+**Status:** Planned. I’m prioritising the Manual and Automation QA portfolios first.  
 **Portfolio hub:** https://kelinacowellqa.github.io  
 **Contact:** kelinacowell.qa@gmail.com
