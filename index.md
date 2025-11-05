@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/css/style.css">
+
 # Game Build & Test — QA Portfolio (Planned)
 
 This repository will host a **small playable game** that I build and then test end-to-end. The goal is to show awareness of how a game moves from **concept → prototype → playable → release**, and where QA adds value at each stage.
